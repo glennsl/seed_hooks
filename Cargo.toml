@@ -11,7 +11,7 @@ license = "Apache-2.0 OR MIT"
 
 [dependencies]
 # seed = { git = "https://github.com/seed-rs/seed", rev = "0a538f0" }
-seed = "^0.7.0"
+seed = "^0.8.0"
 # seed = {path = "../seed"}
 
 # atomic_hooks = "0.1.0"
