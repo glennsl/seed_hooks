@@ -16,7 +16,7 @@ seed = "^0.8.0"
 
 # atomic_hooks = "0.1.0"
 # atomic_hooks = { path = "../atom_state"}
-atomic_hooks = { git = "https://github.com/arn-the-long-beard/atomic_hooks.git", rev = "8c0f460" }
+atomic_hooks = { git = "https://github.com/glennsl/atomic_hooks", rev = "8c0f460" }
 
 gloo-timers = { version = "0.2.1", features = ["futures"] }
 lazy_static = "1.4.0"
